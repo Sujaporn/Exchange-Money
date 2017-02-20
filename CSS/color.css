@@ -1,0 +1,31 @@
+body, button {
+    font-family: "Century Gothic", sans-serif;
+    color: #808080;
+}
+
+.container {
+    background-color: #666666;
+}
+
+#headingOne {
+	background-color: #339999;
+    color: #FFF;
+}
+
+#headingTwo {
+	background-color: #339999;
+    color: #FFF;
+}
+
+#headingThree {
+	background-color: #339999;
+    color: #FFF;
+}
+
+#btn {
+	background-color: #ffcccc;
+	color: #FFF;
+	border-radius: 5px;
+} 
+
+
